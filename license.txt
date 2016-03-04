@@ -1,4 +1,4 @@
-Copyright (c) 2013, Rick Bingen, Don Kuntz, Michael Peterson, Adam Vande Ven
+Copyright (c) 2013-2016, Rick Bingen, Don Kuntz, Michael Peterson, Adam Vande Ven
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
